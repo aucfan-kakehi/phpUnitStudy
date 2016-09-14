@@ -8,9 +8,6 @@ class Controller_Check extends Controller
         echo '         locale: ' . setlocale(LC_ALL, '0')  ."\n";
         echo '           date:   ' . Date::forge()->format('mysql') . "\n";
         echo 'default_charset: ' . ini_get('default_charset') . "\n";
-        echo 'confirm';
-        echo 'confirm';
-
         echo '</pre>';
     }
 }
