@@ -45,7 +45,7 @@ return array(
 		 */
 
 		'autoload_path' => 'PHPUnit/Autoload.php' ,
-		'binary_path'   => 'phpunit' ,
+		'binary_path'   => VENDORPATH . 'bin/phpunit' ,
 
 	),
 );

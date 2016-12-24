@@ -6,6 +6,9 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname(dirname($vendorDir));
 
 return array(
-    'Psr\\Log\\' => array($vendorDir . '/psr/log'),
+    'TokenReflection' => array($vendorDir . '/andrewsville/php-token-reflection'),
     'Michelf' => array($vendorDir . '/michelf/php-markdown'),
+    'Doctrine\\Common\\Lexer\\' => array($vendorDir . '/doctrine/lexer/lib'),
+    'Dissect' => array($vendorDir . '/jakubledl/dissect/src'),
+    'AspectMock' => array($vendorDir . '/codeception/aspect-mock/src'),
 );

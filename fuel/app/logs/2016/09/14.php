@@ -72,3 +72,50 @@ ERROR - 2016-09-14 19:47:53 --> Parsing Error - syntax error, unexpected ';' in 
 INFO - 2016-09-14 19:48:30 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form"
 INFO - 2016-09-14 19:48:30 --> Fuel\Core\Request::execute - Called
 INFO - 2016-09-14 19:48:30 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:25:26 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form"
+INFO - 2016-09-14 20:25:26 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:25:26 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:25:33 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:25:33 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:25:33 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2016-09-14 20:25:33 --> Fatal Error - Call to undefined function set_safe() in /mnt/fuelphp/fuel/app/classes/controller/form.php on line 45
+INFO - 2016-09-14 20:26:44 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:26:44 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:26:44 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:27:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:27:05 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:27:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:27:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:27:18 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:27:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:27:19 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:28:01 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:28:01 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:28:01 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:28:05 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form"
+INFO - 2016-09-14 20:28:05 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:28:05 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:28:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:28:10 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:28:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:29:11 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:29:11 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:29:11 --> Fuel\Core\Request::execute - Setting main Request
+ERROR - 2016-09-14 20:29:11 --> Fatal Error - Call to undefined function n12br() in /mnt/fuelphp/fuel/app/views/form/confirm.php on line 12
+INFO - 2016-09-14 20:30:18 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:30:18 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:30:18 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:44:10 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form"
+INFO - 2016-09-14 20:44:10 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:44:10 --> Fuel\Core\Request::execute - Setting main Request
+INFO - 2016-09-14 20:44:16 --> Fuel\Core\Request::__construct - Creating a new main Request with URI = "form/confirm"
+INFO - 2016-09-14 20:44:16 --> Fuel\Core\Request::execute - Called
+INFO - 2016-09-14 20:44:16 --> Fuel\Core\Request::execute - Setting main Request
